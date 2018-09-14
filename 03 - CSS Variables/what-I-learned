@@ -1,0 +1,8 @@
+**WHAT DID I JUST LEARN?**
+
+-- is for referencing elements in CSS. it is standard for CSS and backwards compatible
+:root is ancestor of all elements(HTML, itself)
+document.documentElement wil search for specific elements in DOM
+in img selector, you can select each variable as default element
+document.querySelectorAll will select all properties under specific element declared
+You can do <div class = "controls"> for your controls rather than in a seperate doc
