@@ -1,0 +1,3 @@
+-Different methods in JavaScript, rehashing on how the reduce method works
+-Learning more on ternary operators and how it makes your code look cleaner
+-The sort method does not *sort* out an entire array. It differentiates between two values first(1, -1--think of it as bubbles in which one can overlap the other) then moves on to the next
