@@ -1,0 +1,5 @@
+-attribute modification: occurs when attribute of an element(class, ID, name) is changed dynamically. If clicked, you can view highlghted
+code to see what it is
+-console.dir(element) will show you dropdown of elements
+-testing is very very important
+-viewing DOM elements easier
