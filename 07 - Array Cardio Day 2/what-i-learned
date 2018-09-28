@@ -1,0 +1,4 @@
+-some() will check if at least one element passes the test
+-find is like filter but instead, returns just one you are looking for
+-slice() will make a new array
+-"..." will spread out comments in array
