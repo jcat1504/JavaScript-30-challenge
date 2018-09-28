@@ -1,0 +1,4 @@
+-Instead of putting variable === true to mark checkboxes, we do : =! inBetween to have event fired from both sides
+-I thought this. was a built in element from the library but this. actually checks last event(or in this case, last checked box)
+-You can set flag variables, which sets a variable to false at first, but becomes true when an event triggers it(click, mouseover, etc)
+^^In this case, inBetween is set to false, but when a checkbox is clicked, it becomes TRUE. It will check every box until last checked
