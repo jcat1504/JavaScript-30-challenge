@@ -1,0 +1,3 @@
+-Learned to create over shadow effects with different colors as well as how far the drop shadow reaches out
+-offsetX: x, offsetY: y is the same as e.offsetX and e.offsetY
+-when there are child divs, the values of Y and X will reset on the child elements because they are their own.
