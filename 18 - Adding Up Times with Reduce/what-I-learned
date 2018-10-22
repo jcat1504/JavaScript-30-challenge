@@ -1,0 +1,6 @@
+-Youtube times are nodelists. when you work with nodes and you want to use them as an array, convert to an array first by doing
+something along the lines of:
+    const seconds = Array.from(document.querySelectorAll('[data-time]')
+    ^^this will convert data-time elements into array, and only data-time elements
+Timecode in JS is a number representing timecount 
+-modulu is calculating what is left. it is the remainder after division 
